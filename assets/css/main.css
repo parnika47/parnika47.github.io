@@ -3687,3 +3687,15 @@ input, select, textarea {
 			}
 
 	}
+	.panel .content {
+		display: flex !important;
+		justify-content: center !important;
+		align-items: center !important;
+	}
+
+	.panel .content .resume-img{
+		display: inline-flex !important;
+		justify-content: center !important;
+		width: 90%;
+		height: 65%;
+	}
